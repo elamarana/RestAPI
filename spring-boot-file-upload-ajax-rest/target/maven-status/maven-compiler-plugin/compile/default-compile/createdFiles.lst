@@ -1,0 +1,8 @@
+com\springboot\beans\FileMetaDetails.class
+com\springboot\SpringBootWebApplication.class
+com\springboot\exception\CustomError.class
+com\springboot\model\UploadModel.class
+com\springboot\controller\IndexController.class
+com\springboot\services\FileDetailService.class
+com\springboot\exception\RestGlobalExceptionHandler.class
+com\springboot\controller\RestUploadController.class
